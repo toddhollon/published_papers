@@ -1,3 +1,3 @@
 # published_papers
 
-Papers that I have published over the years. 
+Some papers that I have published over the years. 
